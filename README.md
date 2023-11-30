@@ -1,1 +1,7 @@
-This is a react based application that uses javascript, css, and html. I built this app with my time at thinkful and basically it tracks recipes that can be added or deleted.# AppProjThinkful
+Recipe Tracker App
+
+Recipe Tracker App for Thinkful Made to keep hold of your recipes that you like, and delete the ones you don't!
+
+~ Features ~ Add recipes, photos, and keep track of how to make as well as ingredients needed!
+
+Created using JavaScript, HTML, CSS # AppProjThinkful
